@@ -96,4 +96,3 @@ For Practical 04 and Practical 06, there are separate server/client screenshots.
 
 ---
 
-**Author:** ITMUR-Yogesh
